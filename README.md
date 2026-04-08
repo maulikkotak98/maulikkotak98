@@ -16,7 +16,7 @@ React.js, TypeScript, JavaScript (ES6+), Redux, Zustand, Context API, Next.js, F
 Jest, React Testing Library, Playwright, Git, Jira, Confluence  
 
 **Backend:**  
-Node.js, Express  
+Node.js, Express, MongoDB  
 
 ---
 
